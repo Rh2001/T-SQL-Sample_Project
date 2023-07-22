@@ -1,2 +1,1 @@
-# T-SQL-Sample_Project
- A set of sample scripts demonstrating the usage of T-SQL for Microsoft SQL Server.
+A set of sample scripts demonstrating a sample database for an MMO video game using T-SQL and Microsoft SQL Server. 
